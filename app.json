@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "MIA",
+    "slug": "mia-social-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF7FC"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourbrand.mia"
+    },
+    "android": {
+      "package": "com.yourbrand.mia",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF7FC"
+      }
+    },
+    "plugins": []
+  }
+}
